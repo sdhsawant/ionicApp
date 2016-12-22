@@ -1,3 +1,4 @@
 <?php
-echo "sdf"
-echo ""
+echo "sdf";
+echo "";
+?>
